@@ -11,16 +11,16 @@ Feel free to look around and add some of your own changes!
 
 ### Getting Started
 
-- [[Installation]]
-- [[Rules]]
-- [[Frequently Asked Questions]]
+- [Installation](https://osu.titanic.sh/wiki/en/Installation)
+- [Rules](https://osu.titanic.sh/wiki/en/Rules)
+- [Frequently Asked Questions](https://osu.titanic.sh/wiki/en/FAQ)
 - [[Game Interface]]
 - [[How to Contribute to the Titanic Wiki]]
 
 ### World of Titanic and osu!
 
 - [[Beatmaps]]
-- [[Editor Differences]]
+- [Editor Differences](https://osu.titanic.sh/wiki/en/Editor%20Differences)
 - [[Scores]]
 - [[Achievements]]
 - [[Performance Points]]
@@ -28,6 +28,7 @@ Feel free to look around and add some of your own changes!
 
 ### Online Editing & Ranking
 
+- [Ranking Criteria](https://osu.titanic.sh/wiki/en/Ranking%20Criteria)
 - [[Beatmap Submission]]
 - [[Beatmap Modding]]
 - [[Beatmap Approval]]
@@ -35,10 +36,9 @@ Feel free to look around and add some of your own changes!
 
 ### People
 
-- [[Developers]]
-- [[Beatmap Approval Team]]
-- [[Titanic Modding Group]]
-- [[Wiki maintainers]]
-- [[Media managers]]
+- [Developers](https://osu.titanic.sh/g/2)
+- [Beatmap Approval Team](https://osu.titanic.sh/wiki/en/People/BAT)
+- [Titanic Modding Group](https://osu.titanic.sh/g/10)
+- [Wiki Maintainers](https://osu.titanic.sh/wiki/en/People/Wiki%20Maintainers)
+- [[Media Managers]]
 - [[List of notable people]]
-- [[Verified users]]
