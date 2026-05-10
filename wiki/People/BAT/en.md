@@ -59,7 +59,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[Nikku]                           | BAT Management |                             | May 19th, 2024([^1])       |
 |[Konoe]                           |                |           Japanese          | February 22nd, 2026([^11]) |
 |[Dark]                            |                |                             | February 23rd, 2026([^11]) |
-|[Eun]                             |                |                             | March 1st, 2026[^11]       |
+|[Eun]                             |                |                             | March 1st, 2026([^11])     |
 
 
 ### Mania team members
@@ -106,7 +106,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 ## Notes
 
 [^1]: [First BAT wave]
-[^2]: [Dandy Discord #announce ping]
+[^2]: [Toothy Discord #announce ping]
 [^3]: [kingkurboh335 Discord #announce ping]
 [^4]: [arutama Discord #announce ping]
 [^5]: [kanocchi forum announcement]
