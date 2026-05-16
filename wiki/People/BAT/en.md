@@ -123,7 +123,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^13]: Avril joined the osu!BAT in February 23rd, 2025, resigned in January 6th, 2026, rejoined osu!BAT in April 6th, 2026.
 [^14]: pimpG joined the osu!BAT in June 16th 2025, removed from osu!BAT in May 13th 2026 due to inactivity.
 [^15]: Azu joined the osu!BAT in February 21st 2026 removed from osu!BAT in May 13th 2026 due to inactivity.
-[^16]: Konoe joined the osu!catch BAT in February 22nd 2026, removed from osu!catch BAT in May 13th 2026 due to inactivity.
+[^16]: Konoe joined the osu!BAT and osu!catch BAT in February 22nd 2026, removed from osu!catch BAT in May 13th 2026 due to inactivity.
 [^17]: SomalianPants joined osu!BAT in February 21st 2026, removed from osu!BAT in May 13th 2026 due to inactivity.
 
 
