@@ -28,3 +28,7 @@ The Alumni are a group of members who contributed to Titanic in some way, either
 | [arutama](https://osu.titanic.sh/u/905)          | BAT                                |
 | [dremu](https://osu.titanic.sh/u/659)            | TMT                                |
 | [Hatate Himekaidou](https://osu.titanic.sh/u/85) | GMT                                |
+| [pimpG](https://osu.titanic.sh/u/2719)           | BAT                                |
+| [Konoe](https://osu.titanic.sh/u/4112)           | BAT                                |
+| [Azu](https://osu.titanic.sh/u/4109)             | BAT                                |
+| [SomalianPants](https://osu.titanic.sh/u/4119)   | BAT                                |
