@@ -46,12 +46,8 @@ User                                             |                     Title    
 [willow](https://osu.titanic.sh/u/1088)          | osu!taiko BAT                                |
 [Donkey Kong](https://osu.titanic.sh/u/1091)     | osu!taiko BAT                                |
 [SCAG](https://osu.titanic.sh/u/2631)            | osu! BAT                                     |
-[pimpG](https://osu.titanic.sh/u/2719)           | osu! BAT                                     |
 [laurafied](https://osu.titanic.sh/u/3578)       | osu! BAT                                     |
-[Azu](https://osu.titanic.sh/u/4109)             | osu! BAT                                     |
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
-[Konoe](https://osu.titanic.sh/u/4112)           | osu! BAT / osu!catch BAT                     |
-[SomalianPants](https://osu.titanic.sh/u/4119)   | osu! BAT                                     |
 [Eun](https://osu.titanic.sh/u/3006)             | osu!catch BAT                                |
 
 
